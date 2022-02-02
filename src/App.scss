@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&display=swap');
+
+body {
+  font-family: "Baloo Bhaijaan 2", sans-serif !important;
+  font-size: 18px;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 3px 15px 0px -52px;
+  img {
+    width: 105px;
+  }
+}
+
+.ant-layout-content {
+  height: 100vh;
+  margin: 0 10px;
+}
+
+.avatar {
+  color: #f56a00;
+  background-color: #fde3cf;
+}
+
+.ant-list-split .ant-list-item {
+  border-bottom: 1px solid #e0e0e0;
+}
